@@ -23,4 +23,6 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
   -ChaoticLab CNC TAP is within project budget. (Other than that, the toolhead is entirely to your choosing.) 
 
+  -Simpler and easier belt tensioning for Y-axis
+
   
