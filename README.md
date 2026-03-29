@@ -3,7 +3,8 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
 <img width="1299" height="728" alt="image" src="https://github.com/user-attachments/assets/f0b3a74b-b0d2-42da-b8d1-5d9a2e45d64c" />
 
-New Features: 
+##New Features: 
+
   -Gravity Belt Tensioning for X-axis gantry.
   
   -Self Tramming Assembly.
