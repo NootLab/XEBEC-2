@@ -10,9 +10,9 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 - **Stiffer, spatially optimised Y-axis** with a lower centre of gravity *(Z=0 is only 87mm from the ground)*
 - **Gravity belt tensioning** for the X-axis gantry
 - **Simpler belt tensioning** for the Y-axis
-- **Dual Z-axis compatible** — supports 42-34(Z) and 42-40(E) steppers
+- **Dual Z-axis** — supports 42-34(Z) and 42-40(E) steppers
 - **VORON Switchwire-compatible wiring** — identical configuration, concealed beneath the Y-axis
-- **ASA-printable parts** — all components can be printed without an enclosure *(a bi-metal heatbreak is recommended)*
+- **ASA-printable parts** — all components can be printed on original ender 3 without an enclosure *(a bi-metal heatbreak is necessary)*
 - **Front-mounted power switch**
 - **ChaoticLab CNC TAP compatible** — within project budget; toolhead is otherwise entirely your choice
 
