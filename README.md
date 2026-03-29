@@ -13,7 +13,7 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
   
   -Stronger Y-axis.
   
-  -Identical wiring configuration to VORON Switchwire.
+  -Identical wiring configuration to VORON Switchwire and concealed beneath Y-axis. 
   
   -Steppers 42-34(z) and 42-40(E) compatible for dual Z-axis.
   
