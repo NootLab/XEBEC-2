@@ -5,13 +5,13 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
 ## New Features: 
 
-  -Gravity belt tensioning for X-axis gantry.
+  -Straightforward and self tramming assembly.
 
   -Larger print area of 230mm(x)x230mm(y)x260mm(z). (The same stock ender 225mm bed. XEBEC just uses more of it)
   
-  -Straightforward and self tramming assembly.
-  
-  -Stronger Y-axis.
+  -Stiffer and spacially optimised Y-axis.
+
+  -Gravity belt tensioning for X-axis gantry.
   
   -Identical wiring configuration to VORON Switchwire and concealed beneath Y-axis. 
   
@@ -31,5 +31,5 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
 <img width="1514" height="1260" alt="image" src="https://github.com/user-attachments/assets/9ecb8674-29eb-45e1-8812-ce4b92e0832c" />
 
-Currently waiting for hot end fan and jst terminal kit to arrive so I can finish the electronics.
+###Currently waiting for hot end fan and jst terminal kit to arrive so I can finish the electronics.
 In the meantime preparing the firmware. 
