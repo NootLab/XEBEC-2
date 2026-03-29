@@ -9,7 +9,7 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
   -Larger print area of 230(x)x230(y)x250(z). (The same stock ender 225mm bed. XEBEC just uses more of it)
   
-  -Self tramming assembly.
+  -Straightforward and self tramming assembly.
   
   -Stronger Y-axis.
   
