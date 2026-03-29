@@ -28,3 +28,6 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 <img width="1071" height="1260" alt="image" src="https://github.com/user-attachments/assets/6390528a-57aa-4281-9bad-185c4bbb69f3" />
 
 <img width="1514" height="1260" alt="image" src="https://github.com/user-attachments/assets/9ecb8674-29eb-45e1-8812-ce4b92e0832c" />
+
+Currently waiting for hot end fan and jst terminal kit to arrive so I can finish the electronics.
+In the meantime preparing the firmware. 
