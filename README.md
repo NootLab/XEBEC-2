@@ -1,5 +1,5 @@
 # XEBEC-2
-Compact high performance cartesian 3D printer. Built from the ashes of two Ender 3s, reclaiming as much as possible without compromising speed and quality.  Project Cost: &lt;£200
+Compact high performance cartesian 3D printer. Built from the ashes of two Ender 3s, reclaiming as much as possible without compromising speed and quality of todays commercial standards.  Project Cost: &lt;£200
 
 <img width="1299" height="728" alt="image" src="https://github.com/user-attachments/assets/f0b3a74b-b0d2-42da-b8d1-5d9a2e45d64c" />
 
