@@ -5,20 +5,22 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 
 ## New Features: 
 
-  -Gravity Belt Tensioning for X-axis gantry.
+  -Gravity belt tensioning for X-axis gantry.
   
-  -Self Tramming Assembly.
+  -Self tramming assembly.
   
   -Stronger Y-axis.
   
-  -ChaoticLab CNC TAP compatible.
+  -ChaoticLab CNC TAP is within project budget.(other than that, the toolhead is entirely to your choosing. ) 
   
-  -Same wiring as VORON Switchwire.
+  -Identical wiring configuration to VORON Switchwire.
   
-  -Steppers 42-34 and 42-40 compatible for dual Z-axis.
+  -Steppers 42-34(z) and 42-40(E) compatible for dual Z-axis.
   
-  -Larger Print Area of 230(x)x230(y)x250(z). (Compatible with the stock ender 225mm bed. XEBEC just uses more of it)
+  -Larger print area of 230(x)x230(y)x250(z). (The same stock ender 225mm bed. XEBEC just uses more of it)
   
-  -Parts are compatible for printing ASA without an enclosure. (I used one of the ender 3s with a bi-metal heatbreak)
+  -All parts are compatible for printing ASA without an enclosure. (I used one of the ender 3s with a bi-metal heatbreak)
   
-  -On/Off Switch at the front of the printer.
+  -On/Off switch at the front of the printer.
+
+  
