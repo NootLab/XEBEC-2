@@ -21,4 +21,4 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
   
   -Parts are compatible for printing ASA without an enclosure. (I used one of the ender 3s with a bi-metal heatbreak)
   
-  -On Switch at the front of the printer.  
+  -On/Off Switch at the front of the printer.
