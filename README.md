@@ -12,7 +12,7 @@ Compact high performance cartesian 3D printer. Built from the ashes of two Ender
 - **Simpler belt tensioning** for the Y-axis
 - **Dual Z-axis** — supports 42-34(Z) and 42-40(E) steppers
 - **VORON Switchwire-compatible wiring** — identical configuration, concealed beneath the Y-axis
-- **ASA-printable parts** — all components can be printed on original ender 3 without an enclosure *(a bi-metal heatbreak is necessary)*
+- **ASA-printable parts** — all components can be printed on original ender 3 without an enclosure, I know because I did it *(a bi-metal heatbreak is necessary)*
 - **Front-mounted power switch**
 - **ChaoticLab CNC TAP compatible** — within project budget; toolhead is otherwise entirely your choice
 
